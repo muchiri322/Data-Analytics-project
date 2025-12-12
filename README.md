@@ -41,6 +41,7 @@ online_retail_project/
 │
 └── README.md
 
+
 PHASE 1 — Data Ingestion
 
 Load and inspect the dataset using Python.
